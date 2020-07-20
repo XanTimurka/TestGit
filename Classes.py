@@ -1,5 +1,5 @@
 class Dat:
-    a="A"
+    a="A1"
     b="B"
     c="C"
 Dat1=Dat()
